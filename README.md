@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gopalkrishz
 - 👀 I’m interested in FullStack Web Development,Moblie app Development(Android,flutter),Machine Learning and Beyond the infinity
-- 🌱 I’m currently learning ReactJS,Machine Learning
+- 🌱 I’m currently learning ReactJS,Machine Learning,competetive programming
 - 💞️ I’m looking to collaborate on FullStackDevelopment,nodeJS...
 - 📫 How to reach me ...
 - gopalkrishz027@gmail.com
