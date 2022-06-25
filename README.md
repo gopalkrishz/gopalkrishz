@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopalkrishz
 - 👀 I’m interested in FullStack Web Development,Moblie app Development(Android,flutter),Machine Learning and Beyond the infinity
-- 🌱 I’m currently learning ReactJS,Machine Learning,competetive programming
-- 💞️ I’m looking to collaborate on FullStackDevelopment,nodeJS...
+- 🌱 I’m currently learning MERN stck,Machine Learning and practicing competetive programming.
+- 💞️ I’m looking to collaborate on FullStackDevelopment(MERN)stack..
 - 📫 How to reach me ...
 - gopalkrishz027@gmail.com
 
