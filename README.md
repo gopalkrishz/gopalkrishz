@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gopalkrishz
-- 👀 I’m interested in FullStack Web Development,BlockChain Development(web3),Machine Learning and Beyond the infinity
-- 🌱 I’m currently learning MERN stack,Machine Learning and practising competetive programming.
+- 👀 I’m interested in FullStack Web Development,BlockChain Development(web3),Cloud Computing
+- 🌱 Proficient in FullStack Web Development using MERN stack, Machine Learning and currently learning competetive programming(DS & algo)
+- ✨ Currently learning Docker and kubernetes for deployment and other highly scalable and available functionality
 - 💞️ I’m looking to collaborate on FullStackDevelopment(MERN)stack..
 - 📫 How to reach me ...
 - gopalkrishz027@gmail.com
