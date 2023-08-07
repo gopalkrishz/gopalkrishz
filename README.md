@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @gopalkrishz
 - 👀 I’m interested in FullStack Web Development,BlockChain Development(web3),Cloud Computing
 - 🌱 Proficient in FullStack Web Development using MERN stack, Machine Learning and currently learning competetive programming(DS & algo)
