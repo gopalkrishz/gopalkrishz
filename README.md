@@ -1,12 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @gopalkrishz
-- 👀 I’m interested in FullStack Web Development,BlockChain Development(web3),Cloud Computing
-- 🌱 Proficient in FullStack Web Development using MERN stack, Machine Learning and currently learning competetive programming(DS & algo)
-- ✨ Currently learning Docker and kubernetes for deployment and other highly scalable and available functionality
-- 💞️ I’m looking to collaborate on FullStackDevelopment(MERN)stack..
+- 👀 I’m interested in FullStack Development,Backend Developmnent,Microservices and Cloud Computing.
+- 🌱 Proficient in FullStack Web Development using MERN stack, Machine Learning and Deep Learning and Backend Development(SpringBoot & java)
+- ✨ Currently working in the Development of building scalable and reliable REST API for the enterprise Application using spring framework 
+- 💞️ I’m looking to collaborate on Java Development, Backendend Development and Fullstack Development in (MERN stack)
 - 📫 How to reach me ...
-- gopalkrishz027@gmail.com
-- my portfolio-https://euphonious-entremet-658195.netlify.app/
+- https://www.linkedin.com/in/gopala-krishnan-93b6a0227--linkedin-account
+- gopalkrishz027@gmail.com--personal mail
+- https://euphonious-entremet-658195.netlify.app/--my portfolio
 
 <!---
 gopalkrishz/gopalkrishz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
