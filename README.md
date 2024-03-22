@@ -5,7 +5,7 @@
 - ✨ Currently working in the Development of building scalable and reliable REST API for the enterprise Application using spring framework 
 - 💞️ I’m looking to collaborate on Java Development, Backendend Development and Fullstack Development in (MERN stack)
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/gopala-krishnan-93b6a0227--linkedin-account
+- https://www.linkedin.com/in/gopala-krishnan-93b6a0227 linkedin-account
 - gopalkrishz027@gmail.com--personal mail
 - https://euphonious-entremet-658195.netlify.app/--my portfolio
 
